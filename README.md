@@ -9,8 +9,8 @@ Follow these steps to get the Simple AI Chat System up and running
 1. `Clone the Repository:`
 
     ``` bash
-    git clone https://github.com/your-repository-url
-    cd your-repository-folder
+    git clone https://github.com/AsadRehman21/simple-ai-chat-system.git
+    cd simple-ai-chat-system.git
     ```
 
 2. `Create a Virtual Environment:`
